@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Кирилл Архангельский](https://up.htmlacademy.ru/ecmascript-individual/2/user/1800797).
-* Наставник: `Неизвестно`.
+* Наставник: [Олег Глущенко](https://htmlacademy.ru/profile/id305355).
 
 ---
 
